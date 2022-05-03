@@ -1,0 +1,12 @@
+<xml>
+  <Basic_theory>What is testing, bug reports, documentation, types, methods, testing areas, etc. SDLC, STLC.</Basic_theory>
+  <API>Postman. JS, API autotest</API>
+  <Devtools>Google Chrome, FireFox</Devtools>
+  <Linux>Copying, creating, viewing, moving files on servers without a graphical interface. Basics of bash scripting, automation of routine tasks on the server. Access to remote servers.</Linux>
+  <SQL>Create, Delete, Drop, Insert Into, Select, From, Where, Join</SQL>
+  <Postgres>Installation, configuration and use.</Postgres>
+  <Redis>Installation, configuration and use.</Redis>
+  <Python>Basics. Creating a client-server application.</Python>
+  <Client-server_architecture>Client-server architecture. HTTP Request methods to the server. HTTP server response codes. Structures of HTTP requests and responses.</Client-server_architecture>
+  <Mobile_testing>Feature iOS, Android, guidelines. Building iOS applications on Xcode. Building Android Applications with Android Studio. ADB. Setting up proxy and vpn on iOS and Android. Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</Mobile_testing>
+
